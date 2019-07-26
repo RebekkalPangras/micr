@@ -54,4 +54,4 @@ INPUT:
   PIXEL_STD: [57.375, 57.12, 58.395]
 
 OUTPUT_DIR: "."
-PATHS_CATALOG: "myconfig/paths_catalog.py"
+PATHS_CATALOG: "/content/micr/maskrcnn-benchmark/myconfigs/paths_catalog.py"
